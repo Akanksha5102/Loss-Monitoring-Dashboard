@@ -127,7 +127,7 @@ The visuals are interactive and update dynamically based on user selection and f
 
 # Screenshots
 
-![Dashboard Screenshot].()
+![Dashboard Screenshot].(https://github.com/Akanksha5102/Loss-Monitoring-Dashboard/blob/main/Snapshot%20of%20the%20Dashboard.png)
 
 
 
