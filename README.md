@@ -120,8 +120,12 @@ Visualization Type and	Description
 - **Bar Chart-**	Compares Online vs. Retail Revenue and Loss for evaluating channel performance
 - **Stacked Column Chart-**	Visualizes how discounts affect Profit or Loss across different discount ranges
 - **Scatter Plot / Line Graph (optional)-**	Displays correlation between discount percentages and resulting loss/profit (if included)
-- Slicer / Filter Pane	Allows filtering by Product Category for focused, segment-level insights
-- Tooltip (Custom)	Added to the “Loss” card to explain the loss calculation and highlight the impact of discounts versus cost
+- **Slicer / Filter Pane-**	Allows filtering by Product Category for focused, segment-level insights
+- **Tooltip (Custom)-**	Added to the “Loss” card to explain the loss calculation and highlight the impact of discounts versus cost
 
 The visuals are interactive and update dynamically based on user selection and filters.
+
+# Screenshots
+
+
 
