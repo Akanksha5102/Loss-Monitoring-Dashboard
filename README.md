@@ -127,5 +127,7 @@ The visuals are interactive and update dynamically based on user selection and f
 
 # Screenshots
 
+![Dashboard Screenshot].()
+
 
 
