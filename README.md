@@ -133,5 +133,5 @@ The visuals are interactive and update dynamically based on user selection and f
 
 2. **This dashboard includes a custom tooltip that explains how loss is calculated:**
 
-   ![Tooltip Screenshot]()
+   ![Tooltip Screenshot](https://github.com/Akanksha5102/Loss-Monitoring-Dashboard/blob/main/Tooltip.png)
 
